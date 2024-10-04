@@ -1,0 +1,42 @@
+[
+  {
+    "sem": "First Semester",
+    "sub": "1 Subject",
+    "icon": "FaBook"
+  },
+  {
+    "sem": "Second Semester",
+    "sub": "2 Subject",
+    "icon": "FaCode"
+  },
+  {
+    "sem": "Third Semester",
+    "sub": "3 Subject",
+    "icon": "FaFlask"
+  },
+  {
+    "sem": "Fourth Semester",
+    "sub": "4 Subject",
+    "icon": "FaPi"
+  },
+  {
+    "sem": "Fifth Semester",
+    "sub": "5 Subject",
+    "icon": "FaPi"
+  },
+  {
+    "sem": "Sixth Semester",
+    "sub": "6 Subject",
+    "icon": "FaPi"
+  },
+  {
+    "sem": "Seventh Semester",
+    "sub": "3 Subject",
+    "icon": "FaPi"
+  },
+  {
+    "sem": "Eight Semester",
+    "sub": "3 Subject",
+    "icon": "FaPi"
+  }
+]
